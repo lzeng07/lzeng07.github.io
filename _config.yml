@@ -12,11 +12,7 @@ site_theme               : "mint" # The available themes options are "default", 
 title                    : "Li Zeng"
 title_separator          : "-"
 name                     : &name "Li Zeng"
-<<<<<<< HEAD
 description              : &description "Li Zeng's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-=======
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
->>>>>>> 6ec3ce8cfd3936786924060c30f1ad0c271f745f
 url                      : https://lzeng07.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
