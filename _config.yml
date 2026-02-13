@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Li Zeng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Wshington, D.C. - Baltimore, MD area"
-  employer         : "Deployment Lab - Johns Hopkins University"
+  bio              : "A PhD student in Energy Systems and Economics, at Johns Hopkins University (JHU)."
+  location         : "Baltimore - DC area"
+  employer         : "Johns Hopkins University"
   uri              : # URL
   email            : "lzeng15@jh.edu" 
 
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lzeng07"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # "www.linkedin.com/in/lizeng07"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
